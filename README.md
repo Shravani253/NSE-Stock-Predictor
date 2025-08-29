@@ -8,9 +8,7 @@ This project is a stock market prediction model built using NSE historical stock
 Objective:
 
 To use historical NSE data and apply data cleaning, feature engineering, and machine learning for stock movement prediction.
-
 To test if a RandomForestClassifier can capture patterns in stock trends.
-
 To evaluate the predictive ability of the model using backtesting techniques.
 
 ⚙️Methodology:
